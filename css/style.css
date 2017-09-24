@@ -1,0 +1,44 @@
+h1{
+	color: orange;
+}
+
+h2, li{
+	color: red;
+}
+
+h2.odd{
+	color: blue;
+}
+
+
+li.odd{
+	color: green;
+}
+
+h2.active{
+	text-decoration: underline;
+}
+
+.active.help{
+	font-style: italic;
+}
+
+li.active{
+	text-decoration: line-through;
+}
+
+li + hr{
+	width: 300px;
+}
+
+font-size razmer shrifta
+font-weight: bold szirnost shrifta
+font-style: italic kursiv shrifta
+text-align know
+text-decoration: none,underline, line-through,over-line
+color: 
+background-color:
+min-height: 
+text-decoration-...
+
+
